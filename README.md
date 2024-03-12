@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @vandeh827
+- 👀 I’m interested in Cyber security and Data analytics
+- 🌱 I’m currently learning Excel and Ethical hacking 
+- 💞️ I’m looking to collaborate on projects 
+- 📫 How to reach me vandehaustin6@gmail.com
+- 😄 Pronouns: ...HE/Him
+- ⚡ Fun fact: I love technology
