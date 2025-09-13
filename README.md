@@ -5,7 +5,7 @@
   <img src="https://img.shields.io/badge/SOC-314049?style=for-the-badge">
 </p>
 
-I'm Vandeh AKA Bl@q Ciph3r (@vandeh827), a dedicated and curious professional with a deep-seated passion for <span style="color:#66ff00;">cybersecurity</span>. My journey is focused on the critical and dynamic field of <span style="color: #00bfff;">Security Operations Centers (SOC)</span>, where I aim to contribute to safeguarding digital infrastructures.
+I'm Bl@q Ciph3r (@vandeh827), a dedicated and curious professional with a deep-seated passion for <span style="color:#66ff00;">cybersecurity</span>. My journey is focused on the critical and dynamic field of <span style="color: #00bfff;">Security Operations Centers (SOC)</span>, where I aim to contribute to safeguarding digital infrastructures.
 
 I believe in continuous learning and hands-on experience, which is why I'm currently immersing myself in the world of ethical hacking. I'm actively building my skills in <span style="color:#ff4500;">penetration testing</span>, <span style="color:#ff4500;">vulnerability analysis</span>, and <span style="color:#ff4500;">network defense</span> to better understand and counter emerging threats.
 
