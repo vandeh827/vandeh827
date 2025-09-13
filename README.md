@@ -14,7 +14,7 @@ I believe in continuous learning and hands-on experience, which is why I'm curre
 - **<span style="color:#00bfff;">Security Operations Center (SOC):</span>** The core of my interest lies in proactive threat detection, incident response, and security information and event management (SIEM). I'm fascinated by the challenge of staying one step ahead of adversaries.
 - **Cyber Threat Intelligence:** I enjoy analyzing threat landscapes, researching new attack vectors, and understanding the motivations behind cyberattacks.
 - **Ethical Hacking:** I'm committed to learning how to think like a hacker to better protect systems and organizations from real-world threats.
-- **Automation & Scripting:** I'm always looking for ways to use Python and other scripting languages to automate security tasks and improve efficiency in the SOC.
+- **Automation & Scripting:** I'm always looking for ways to use Python, Bash and Powershell to automate security tasks and improve efficiency in the SOC.
 
 ## Collaborations
 
